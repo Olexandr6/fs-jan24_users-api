@@ -1,5 +1,5 @@
 {
-  "name": "fe-nov23_users-api",
+  "name": "fs-jan24_users-api",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgrinko/fe-nov23_users-api.git"
+    "url": "git+https://github.com/Olexandr6/fs-jan24_users-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mgrinko/fe-nov23_users-api/issues"
+    "url": "https://github.com/Olexandr6/fs-jan24_users-api/issues"
   },
-  "homepage": "https://github.com/mgrinko/fe-nov23_users-api#readme"
+  "homepage": "https://github.com/Olexandr6/fs-jan24_users-api#readme"
 }

@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import { Color, User } from './types';
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5005;
 const app = express();
 
 app.use(cors({ origin: '*' }));
